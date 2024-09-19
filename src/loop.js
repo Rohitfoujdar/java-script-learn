@@ -34,3 +34,14 @@ document.write("</ul>")
 for(let n = 1; n<=10; n++){
     document.write("java script loop<br>");
 }
+
+let a= {
+    fname : 'java',
+    lname : 'script',
+    age : 18,
+    email : 'rohitfoujdar8696@gmail.com',
+}
+
+for (let key in a){
+    document.write(key + " : " + a[key] + "<br>")
+}

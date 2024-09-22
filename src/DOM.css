@@ -1,0 +1,90 @@
+/* #box{
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+border: 1px solid black;
+color: white;
+} */
+
+/* .para{
+    color: red;
+}
+
+.newclass{
+    background-color: black;
+} */
+
+/* *{
+    margin t: 30px,20px;
+    padding: 0px;
+} */
+
+/* div{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* #outer{
+    height: 300px;
+
+width: 30%;
+    background-color: yellow;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+margin-left: 150px;
+
+}
+
+#inner{
+    height: 100px;
+    width: 40%;
+    background-color: blue;
+} */
+
+#outer{
+    background-color: green;
+    height: 300px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inner{
+    background-color: yellow;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+
+.j{
+    height: 100px;
+    border: 2px solid black;
+    background-color: grey;
+width: 15%;
+
+}
+
+#child{
+    height: 100px;
+    border: 2px solid black;
+    background-color: grey;
+width: 15%;
+}
+
+#d{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
